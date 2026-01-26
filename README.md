@@ -28,4 +28,6 @@ same Creative Commons Attribution 4.0 license. See [COPYING.md](COPYING.md).
 
 [Alloy](http://alloy.lcs.mit.edu/alloy/index.html) is a third-party tool
 used in this repo, and is available from
+
 https://github.com/AlloyTools/org.alloytools.alloy.
+Created by Jason Scott Heise
